@@ -1,0 +1,19 @@
+{
+  "applinks": {
+     "apps": [
+      
+    ],
+     "details": [
+      {
+        "appIDs": [
+          "C98789PNB9.ru.projectpoint.app"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
